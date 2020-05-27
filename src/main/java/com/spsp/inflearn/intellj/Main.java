@@ -9,9 +9,9 @@ public class Main {
         String test = "쿠엑";
         System.out.println(test);
 
-        System.out.println("10");
-        System.out.println("10");
-        System.out.println("10");
+        System.out.println("git 첫번째 커밋");
+
+
 
         System.out.println(message2);
 
