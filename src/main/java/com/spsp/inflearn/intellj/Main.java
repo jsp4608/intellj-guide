@@ -15,6 +15,9 @@ public class Main {
 
         System.out.println(message2);
 
+        System.out.println("10");
+        System.out.println("10");
+        System.out.println("10");
 
     }
 
